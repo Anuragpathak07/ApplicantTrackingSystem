@@ -1,0 +1,67 @@
+Janhavi Naidu 
+ Aspiring Software Engineer with expertise in Python, Full-Stack Development, and 
+ Machine Learning. Skilled in React, JavaScript, Django, FastAPI and MySQL  Phone No  . - +91 7887460070 
+ janhavinaidu123@gmail.com 
+ LinkedIn 
+ Github 
+ RELATED PROJECTS 
+ To-Do Application  (Django, Bootstrap) 
+ ●  Implemented user authentication to ensure personalized task 
+ lists for each user. 
+ ●  Designed a responsive interface using HTML, CSS, and Bootstrap 
+ for seamless user experience across devices. 
+ Virtual Lab (HTML, CSS, Javascript) 
+ ●  Developed an interactive virtual lab with Aim, Simulation, 
+ Posttest, and Quiz sections. 
+ ●  Created a simulation for the intersection of two sorted linked lists 
+ for visual learning. 
+ ●  Designed the UI of the website, ensuring a responsive and 
+ user-friendly experience across devices. 
+ EDUCATION 
+ B.Tech in Artiﬁcial Intelligence & Machine Learning, 
+ Ramdeobaba University, Nagpur 
+ 2023 - 2027 
+ Currently pursuing a B.Tech degree in Artiﬁcial Intelligence and Machine 
+ Learning from Ramdeobaba College of Engineering and Management, 
+ emphasizing a keen interest in cutting-edge technologies and their 
+ practical applications. 
+ Hankrupa College,  Nagpur —  12th 
+ Cgpa - 8.5 
+ Modern School,  Nagpur -  10th 
+ Cgpa - 9.4  SKILLS 
+ Languages: 
+ C, Java, HTML, CSS, 
+ Javascript, Python 
+ Machine Learning: 
+ Scikit-learn, TensorFlow, 
+ Keras, Pandas, NumPy, 
+ Matplotlib, Seaborn 
+ Framework: 
+ Django, React, Bootstrap 
+ CERTIFICATES 
+ 1. Foundation of Project 
+ Management 
+ Course taught me essential 
+ skills such as project 
+ planning, risk assessment, 
+ and stakeholder management. 
+ 2. Crash Course on Python 
+ Gained foundational 
+ knowledge in Python 
+ ACHIEVEMENTS 
+ 1. Youth Parliament 
+ Conducted by VNIT 
+ 2. 1st Prize Winner - Laasya 
+ Dance Competition 
+ conducted by Raisoni, Nagpur 
+ LANGUAGES 
+ English, Hindi
+
+Consider adding experience or achievements related to: 'passionate'.
+Consider adding experience or achievements related to: 'work'.
+Consider adding experience or achievements related to: 'developing'.
+Consider adding experience or achievements related to: 'about'.
+Consider adding experience or achievements related to: 'working'.
+Consider adding experience or achievements related to: 'web'.
+Consider adding experience or achievements related to: 'tools'.
+Consider adding experience or achievements related to: 'programming'.
